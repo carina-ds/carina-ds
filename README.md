@@ -1,5 +1,8 @@
-# 💫 About Me
-🔭 I’m currently working on a data drift detection pipeline<br>🌱 I’m currently learning about survival models
+# 👋 Hi, I'm Carina!
+:bar_chart: Data Scientist who loves a challenge
+<br> :mortar_board: Studied Statistics and Economics at the University of Virginia
+<br> :bookmark_tabs: I’m currently learning about survival models
+
 
 
 # 💻 Tech Stack
