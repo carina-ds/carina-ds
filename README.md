@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carina!
-:bar_chart: Data Scientist who loves a challenge
+:bar_chart: Data Scientist who is passionate about exploring advanced ML techniques to solve complex problems
 <br> :mortar_board: Studied Statistics and Economics at the University of Virginia
-<br> :bookmark_tabs: I’m currently learning about survival models
+<br> :bookmark_tabs: I’m currently learning about NLP, deep learning, and GenAI
 
 
 
